@@ -29,7 +29,7 @@ class Names {
     System.out.println(first + " " + middle + " " + last + " ");
     System.out.println(initials);
     System.out.println(last + ", " + first + " " + middle);
-    System.out.println(last + ", " + first + " " + middleInit +".");
+    System.out.println(last + ", " + first + " " + middleInit + ".");
     System.out.println(first.toUpperCase() + " " + last.toUpperCase());
 
     System.out.println(first + " equals john is " + first.equals("john"));
