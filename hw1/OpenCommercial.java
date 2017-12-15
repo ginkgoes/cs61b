@@ -41,7 +41,7 @@ class OpenCommercial {
 
     for (int i = 0; i <=4 ; i ++){
       lines[i] = br.readLine();
-      System.out.println(lines[i]);
+      //System.out.println(lines[i]);
     }
 
     for (int i = 4; i >= 0; i --){
