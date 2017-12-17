@@ -117,7 +117,7 @@ class Fraction {
     }
     
     // Make sure that x >= y.
-    if (x <= y) {
+    if (x < y) {
       int z = y;
       y = x;
       x = z;
